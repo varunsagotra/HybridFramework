@@ -1,0 +1,2 @@
+pytest -v -s -m "sanity" --capture=tee-sys --html ./Reports/report.html ./testCases/test_login_NewDDT.py --browser chrome
+#pytest -v -s -m "regression" --capture=tee-sys --html ./Reports/report.html ./testCases/test_login_NewDDT.py --browser chrome

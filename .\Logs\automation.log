@@ -1,0 +1,13 @@
+10/10/2022 04:31:59:PM: INFO :*****[Test_Case_Id]____Test_001_Login____********
+10/10/2022 04:31:59:PM: INFO :*********** Verifying home page title ***********
+10/10/2022 04:32:18:PM: INFO :***********INFO: Home Page Title Test is Passed ***********
+10/10/2022 04:34:10:PM: INFO :*****[Test_Case_Id]____Test_001_Login____********
+10/10/2022 04:34:10:PM: INFO :*********** Verifying home page title ***********
+10/10/2022 04:34:29:PM: ERROR :***********Error: Home Page Title Test is Failed ***********
+10/10/2022 04:34:29:PM: WARNING :***********Warn: Home Page Title Test is Failed ***********
+10/10/2022 04:34:29:PM: WARNING :***********Warning: Home Page Title Test is Failed ***********
+10/10/2022 04:34:47:PM: INFO :*****[Test_Case_Id]____Test_001_Login____********
+10/10/2022 04:34:47:PM: INFO :*********** Verifying home page title ***********
+10/10/2022 04:34:51:PM: ERROR :***********Error: Home Page Title Test is Failed ***********
+10/10/2022 04:34:51:PM: WARNING :***********Warn: Home Page Title Test is Failed ***********
+10/10/2022 04:34:51:PM: WARNING :***********Warning: Home Page Title Test is Failed ***********

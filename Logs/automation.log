@@ -1,0 +1,18 @@
+10/14/2022 07:28:42:PM: INFO :******* Starting Test_002_DDT_Login Test **********
+10/14/2022 07:28:42:PM: INFO :******* Starting Login DDT Test **********
+10/14/2022 07:28:54:PM: INFO :**** passed ****
+10/14/2022 07:29:02:PM: INFO :**** passed ****
+10/14/2022 07:29:08:PM: INFO :**** passed ****
+10/14/2022 07:29:13:PM: INFO :**** passed ****
+10/14/2022 07:29:13:PM: INFO :******* DDT Login test passed **********
+10/14/2022 07:29:14:PM: INFO :******* End of Login DDT Test **********
+10/14/2022 07:29:14:PM: INFO :**************** Completed  TC_LoginDDT_002 ************* 
+10/14/2022 07:31:41:PM: INFO :******* Starting Test_002_DDT_Login Test **********
+10/14/2022 07:31:41:PM: INFO :******* Starting Login DDT Test **********
+10/14/2022 07:31:55:PM: INFO :**** passed ****
+10/14/2022 07:32:02:PM: INFO :**** passed ****
+10/14/2022 07:32:08:PM: INFO :**** passed ****
+10/14/2022 07:32:14:PM: INFO :**** passed ****
+10/14/2022 07:32:14:PM: INFO :******* DDT Login test passed **********
+10/14/2022 07:32:14:PM: INFO :******* End of Login DDT Test **********
+10/14/2022 07:32:14:PM: INFO :**************** Completed  TC_LoginDDT_002 ************* 

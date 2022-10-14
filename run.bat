@@ -1,0 +1,1 @@
+pytest -v -s -m \'93sanity\'94 --capture=tee-sys --html ./Reports/report.html testCases/ --browser chrome
